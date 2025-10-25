@@ -4,6 +4,7 @@ This Power BI dashboard provides a comprehensive analysis of BMW's global sales 
 The report highlights sales volume, revenue trends, fuel type adoption, engine size distribution, and regional performance.
 
 ---
+<img width="1920" height="1080" alt="Screenshot 2025-10-19 220234" src="https://github.com/user-attachments/assets/e8a31aec-8e04-40f3-9a46-da1ef01063d4" />
 
 ## 📊 Key Performance Indicators (KPIs)
 
